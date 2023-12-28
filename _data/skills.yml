@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Communication
+- skill: Communication
+  # description: any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Time Management
+- skill: Time Management
+  # description: Content and marketing strategy,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Resiliency
+- skill: Resiliency
+  # description: Copy writing, graphic design, web design, front-end web development, print design
+
+# Brownfields Software Development
+- skill: Brownfields Software Development
+  # description: any context.
+
+# Git
+- skill: Git
+  # description: any context.

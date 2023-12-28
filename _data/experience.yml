@@ -1,12 +1,23 @@
 # Jobs
-# Fieldworker
+# Census Enumerator
 - company: Statistics South Africa
-  position: Fieldworker
+  position: Census Enumerator
   duration: Feb, 2022 &mdash; Mar 2022
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list">
+              <li>Administered accurate and efficient data capturing, fostering data-driven decision-making.</li>
+              <li>Digitized data collection through face-to-face interviews, showcasing meticulous attention to detail.</li>
+              <li>Contributed to the research and analysis at Stats SA, augmenting insights into national statistics.</li>
+              <li>Conducted Computer Assisted Personal Interviews (CAPI) for Statistics South Africa, ensuring comprehensive data
+collection.</li>
+           </ul>
 
-# Flyer Distributor
+# Promotional Representative
 - company: Amitek Business Collage
-  position: Flyer Distributor
+  position: Promotional Representative
   duration:  Jan, 2016 &mdash; Jan, 2016
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list">
+              <li>Skillfully navigated rejection, adjusting persuasive marketing for diverse audiences.</li>
+              <li>Executed compelling marketing for short courses, generating customer interest.</li>
+              <li>Demonstrated effective communication by explaining college offerings to passersby.</li>
+              <li>Implemented strategic promotional tactics, resulting in heightened college visibility and increased engagement.</li>
+           </ul>

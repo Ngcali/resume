@@ -11,19 +11,27 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ngcali Alexa Magopeni"
-resume_title:                   "Software Engineer"
+resume_title:                   "Seeking Software Developer intern role"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ngmagop022@student.wethinkcode.co.za"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "073-603-9605"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_address:         "City of Johannesburg, Gauteng, South Africa"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "City of Johannesburg, Gauteng, South Africa • 073-603-9605 • ngmagop022@student.wethinkcode.co.za"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Demonstrating a continuous learning mindset, I have accomplished and improved my skills by staying up-to-date
+with emerging technologies and industry best practices. My diverse experiences, such as coordinating as a Census
+Enumerator and promoting as a Promotional Representative, have equipped me with invaluable communication
+and organizational skills. Headed towards a career in software engineering, I have overseen the development and
+improvement of various projects. I have strengthened my foundation in computer program architecture and
+engineering, proving my capabilities in identifying user needs and efficiently refactoring existing legacy code for
+improvements. I plan to contribute my practical experience, technical proficiency, and problem-solving abilities to
+make impactful contributions to a company growth. Excited to bring my leadership skills and commitment to
+ongoing learning to drive success and contribute to a company mission and objectives.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
