@@ -6,13 +6,11 @@
   # role: Software Developer
   # duration: 2012 &mdash; Present
   # url: "#"
-  description: Worked on a Microsoft Learn project, which calculates and
-prints student grades.
+  description: Worked on a Microsoft Learn project, which calculates and prints student grades.
 
 # python-hello-world
 - project: python-hello-world
   # role: Software Developer
   # duration: 2007 &mdash; Present
   # url: "#"
-  description: Demonstrated proficiency in containerization and Docker,
-gained hands-on experience with Docker Hub.
+  description: Demonstrated proficiency in containerization and Docker,gained hands-on experience with Docker Hub.
